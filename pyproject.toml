@@ -13,7 +13,7 @@
 # limitations under the License.
 
 [project]
-name = "CHANGEME-component-name"
+name = "harvester-error-notifier"
 version = "0.1.0"
 description = "CHANGEME a short description"
 readme = "README.md"
@@ -89,8 +89,8 @@ dev = ["pip-tools", "pytest", "pytest-xdist", "pytest-mock", "pytest-watcher", "
 # what's used to render the link text on PyPI.
 [project.urls]  # Optional
 homepage = "https://github.com/UKEODHP/"
-repository = "CHANGEME-https://github.com/UKEODHP/..."
-changelog = "CHANGEME-https://github.com/UKEODHP/.../master/CHANGELOG.md"
+repository = "https://github.com/EO-DataHub/harvester-error-notifier"
+changelog = "https://github.com/EO-DataHub/harvester-error-notifier/blob/main/CHANGELOG.md"
 
 [build-system]
 # These are the assumed default build requirements from pip:
